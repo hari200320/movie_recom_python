@@ -6,4 +6,5 @@ This project implements a simple movie recommender system using collaborative fi
 The load_data() function creates sample data for movies and user ratings:
 
 Movies Data: Contains movie IDs and titles.
+
 Ratings Data: Contains user IDs, movie IDs, and ratings.
