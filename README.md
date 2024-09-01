@@ -16,12 +16,7 @@ You can install these libraries using pip:
 ```bash
 pip install numpy pandas
 
-To run the script, simply execute it with Python:
-
-python movie_recommender.py
-
-
-##Example Output
+Output
 
 Movies Data:
  movie_id     title
@@ -52,4 +47,3 @@ Predicted Ratings:
 - Movie E: 2.11
 
 Predicted rating for 'Movie C' by User 1: 2.84
-
