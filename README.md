@@ -13,5 +13,6 @@ To run this script, you need Python installed with the following libraries:
 
 You can install these libraries using pip:
 
+'''bash
 pip install numpy pandas
-
+bash'''
