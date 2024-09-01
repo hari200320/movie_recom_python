@@ -17,7 +17,7 @@ You can install these libraries using pip:
 pip install numpy pandas
 
 Output
-
+'''bash
 Movies Data:
  movie_id     title
         1  Movie A
