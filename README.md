@@ -1,10 +1,17 @@
-<center><h1>Movie Recommender System</h1></center>
-This project implements a simple movie recommender system using collaborative filtering techniques. It leverages user ratings to predict how a user might rate movies they haven’t yet rated. The system is built using numpy and pandas in Python.
+# Movie Recommender System
 
-<center><h2>How it Works</h2></center>
-<h3>1. Load Data</h3>
-The load_data() function creates sample data for movies and user ratings:
+## Overview
 
-Movies Data: Contains movie IDs and titles.
+This is a simple movie recommender system implemented in Python. It predicts movie ratings for a specific user based on their previous ratings and the similarity between movies. The system uses cosine similarity to measure how similar movies are to each other.
 
-Ratings Data: Contains user IDs, movie IDs, and ratings.
+## Requirements
+
+To run this script, you need Python installed with the following libraries:
+
+- `numpy`
+- `pandas`
+
+You can install these libraries using pip:
+
+```bash
+pip install numpy pandas
